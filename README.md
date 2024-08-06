@@ -4,8 +4,7 @@
 \geometry{a4paper, margin=1in}
 
 \title{AutoAttendanceBot}
-\author{}
-\date{}
+\author{Kaiyrzhan}
 
 \begin{document}
 
@@ -92,6 +91,7 @@
     \item \textbf{Button Not Found}: Verify that the XPath or CSS selectors used to locate the attendance button are accurate.
     \item \textbf{WebDriver Errors}: Make sure the WebDriver version matches your browser version and is properly installed.
 \end{itemize}
+
 
 
 \end{document}
